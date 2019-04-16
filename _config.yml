@@ -31,11 +31,27 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "marco-leong.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: marcoleongdev
+google_analytics: UA-138277282-1
+
+# social_links:
+#   twitter: jekyllrb
+#   github: jekyll
+#   dribbble: jekyll
+#   facebook: jekyll
+#   flickr: jekyll
+#   instagram: jekyll
+#   linkedin: jekyll
+#   pinterest: jekyll
+#   telegram: jekyll
+#   googleplus: +jekyll
+#   microdotblog: jekyll
+#   rss: rss
+
 
 # Build settings
 markdown: kramdown
 theme: minima
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
 
 plugins:
   - jekyll-feed
