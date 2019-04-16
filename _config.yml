@@ -22,34 +22,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Marco Leong
+avatar: https://avatars2.githubusercontent.com/u/4134457?s=400&u=c4b63671aa7e9022d7c2faf47f58965bc66b7da6&v=4://styles.redditmedia.com/t5_2qjpg/styles/communityIcon_iaknuhnghtp21.png
 # header_page: 
 #   - about.md
 #   - portfolio.md
 
-email: 
+# email: asdfadsf
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "For the things we have to learn before we can do them, we learn by doing them" - Aristotle, The Nicomachean Ethics
 baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "marco-leong.com" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+
+twitter_username: jekyllrb
 github_username: marcoleongdev
+
+
 google_analytics: UA-138277282-1
 
-# social_links:
-#   twitter: jekyllrb
-#   github: jekyll
-#   dribbble: jekyll
-#   facebook: jekyll
-#   flickr: jekyll
-#   instagram: jekyll
-#   linkedin: jekyll
-#   pinterest: jekyll
-#   telegram: jekyll
-#   googleplus: +jekyll
-#   microdotblog: jekyll
-#   rss: rss
+linkedin: marcodev
+
+
+social_links:
+  twitter: jekyllrb
+  github: jekyll
+  dribbble: jekyll
+  facebook: jekyll
+  flickr: jekyll
+  instagram: jekyll
+  linkedin: jekyll
+  pinterest: jekyll
+  telegram: jekyll
+  googleplus: +jekyll
+  microdotblog: jekyll
+  rss: rss
 
 
 # Build settings
