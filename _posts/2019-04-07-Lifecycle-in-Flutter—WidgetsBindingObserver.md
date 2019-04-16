@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2019-04-07 12:12:12 +1000'
 categories: lifecycle flutter ios android widgetsBendingobserver
@@ -64,4 +64,3 @@ Run and test it, results:
 ![1*i5rvx4XygAYYqTupjm5PZw.png]({{site.baseurl}}/_posts/1*i5rvx4XygAYYqTupjm5PZw.png)
 
 It is just this simple, happy coding
-
