@@ -15,3 +15,4 @@ categories: jekyll update
 - **gh-page branch** : Github Page for project [[PO](https://help.github.com/en/articles/creating-project-pages-using-the-command-line)]
 - **jekyll** : Quick Start [[HP](https://jekyllrb.com/docs/)]
 - **jekyll theme** : gem themes [[RP](https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme)]
+- **swift 5 keywords** : a list [[PO](https://www.hackingwithswift.com/glossary)]
