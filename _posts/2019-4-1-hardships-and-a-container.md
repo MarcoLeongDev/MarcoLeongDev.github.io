@@ -1,13 +1,13 @@
 ---
-layout: page
+layout: post
 title:  "Hardships and a Container"
-date:   2019-04-01 12:12:12 +1000
-categories: hardship work life
+author: marco
+categories: [ hardship, work , life ]
+image: assets/images/hardship.png
+featured: true
 ---
 
 *written for a friend of mine*
-
-![hardship.png]({{site.baseurl}}/assets/hardship.png)
 
 The concept of handling emotion can be illustrated by imagining the relationship of some liquid and container — a container with a valve and a tiny hole at the bottom.
 The container represents the amount of negative thought a person can handle at one time. The capacity of this container varies from person to another.
