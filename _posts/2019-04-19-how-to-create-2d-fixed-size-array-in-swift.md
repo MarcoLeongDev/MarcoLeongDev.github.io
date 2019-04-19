@@ -50,7 +50,7 @@ var array3 =
 [[[Int?]]](
   repeating: [[Int?]](
     repeating: [Int?](
-      repeating: var,
+      repeating: nil,
       count: 3),
   count: 3),
 count: 3)
