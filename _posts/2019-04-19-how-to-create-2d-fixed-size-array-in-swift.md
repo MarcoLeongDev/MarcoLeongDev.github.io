@@ -46,7 +46,7 @@ int array3[3][3][3];
 
 // in Swift !!!!!!
 
-var array2 = 
+var array3 = 
 [[[Int?]]](
   repeating: [[Int?]](
     repeating: [Int?](
