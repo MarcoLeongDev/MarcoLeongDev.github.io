@@ -18,6 +18,12 @@ comments: true
 - **jekyll theme** : gem themes [[RP](https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme)]
 - **Mediumish Theme** : settled on mediumish theme [[GH](https://github.com/wowthemesnet/mediumish-theme-jekyll/)]
 - **App Auto landing page** : settled on auto landing [[GH](https://github.com/emilbaehr/automatic-app-landing-page)]
+- **Size class ios** : long overdue size class varying [[YT](https://www.youtube.com/watch?v=v2ZbzCDd1bU)]
+- **Unit testing** : long overdue unit testings [[YT](https://www.youtube.com/watch?v=fR9QR-WSNK0)]
+- **UI testings** : long overdued UI testings [[YT](https://www.youtube.com/watch?time_continue=7&v=rmKbsQ41wVY)]
+
+- **Computed properties** : In swift [[PO](https://medium.com/@micosmin/swift-computed-properties-2a8fd9f88d6)]
+- **Shunting-yard algorthim** : for calculator progrmaming, encoding and evaluation [[PO](https://interactivepython.org/runestone/static/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html)[PO](http://www.oxfordmathcenter.com/drupal7/node/628)[WK](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)]
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
 
