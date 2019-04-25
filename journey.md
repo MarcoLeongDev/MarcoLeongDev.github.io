@@ -25,6 +25,6 @@ published: true
 
 - **Computed properties** : In swift [[PO](https://medium.com/@micosmin/swift-computed-properties-2a8fd9f88d6)]
 - **Shunting-yard algorthim** : for calculator progrmaming, encoding and evaluation [[PO](https://interactivepython.org/runestone/static/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html)[PO](http://www.oxfordmathcenter.com/drupal7/node/628)[WK](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)]
-- **Keyboard accessory* [[SO](https://stackoverflow.com/questions/35689528/add-a-view-on-top-of-the-keyboard-using-inputaccessoryview-swift#35689635)]
+- **Keyboard accessory** : [[SO](https://stackoverflow.com/questions/35689528/add-a-view-on-top-of-the-keyboard-using-inputaccessoryview-swift#35689635)]
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
