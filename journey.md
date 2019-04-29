@@ -24,6 +24,7 @@ comments: true
 
 - **Computed properties** : In swift [[PO](https://medium.com/@micosmin/swift-computed-properties-2a8fd9f88d6)]
 - **Shunting-yard algorthim** : for calculator progrmaming, encoding and evaluation [[PO](https://interactivepython.org/runestone/static/pythonds/BasicDS/InfixPrefixandPostfixExpressions.html)[PO](http://www.oxfordmathcenter.com/drupal7/node/628)[WK](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)]
+- **Attributed String** : [[PO](https://exceptionshub.com/how-to-use-subscript-and-superscript-in-swift-2.html)]
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
 
