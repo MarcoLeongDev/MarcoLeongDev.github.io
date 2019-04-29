@@ -29,7 +29,7 @@ published: true
 - **Keyboard accessory** : [[SO](https://stackoverflow.com/questions/35689528/add-a-view-on-top-of-the-keyboard-using-inputaccessoryview-swift#35689635)]
 - **TextView Resizing** : Fixed with varying height [[SO](https://stackoverflow.com/questions/50467/how-do-i-size-a-uitextview-to-its-content)]
 - **Pop-over** : popOver and alwaysPopOver [[PO](https://www.ralfebert.de/ios-examples/uikit/choicepopover/)]
-- **UIVisualEffect** : [[SO](https://stackoverflow.com/questions/24067719/how-to-use-uivisualeffectview)]
+- **UIVisualEffect** : vibrancy, blur, light, dark, extralight [[SO](https://stackoverflow.com/questions/24067719/how-to-use-uivisualeffectview) [PO](http://www.hangge.com/blog/cache/detail_1135.html) [PO](https://viblo.asia/p/tim-hieu-ve-visual-effect-trong-ios-blur-vibrancy-effect-roaerwEbkRM)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
