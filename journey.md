@@ -1,12 +1,3 @@
----
-layout: page
-title: Journey so far
-date:   2019-04-16 13:30:06 +1000
-date: '2019-04-16 13:30:06 +1000'
-categories: jekyll update
-comments: true
-published: true
----
 
 ![journey]({{site.baseurl}}/assets/images/journey-4.jpg)
 
@@ -31,6 +22,7 @@ published: true
 - **Pop-over** : popOver and alwaysPopOver [[PO](https://www.ralfebert.de/ios-examples/uikit/choicepopover/)]
 - **UIVisualEffect** : vibrancy, blur, light, dark, extralight [[SO](https://stackoverflow.com/questions/24067719/how-to-use-uivisualeffectview) [PO](http://www.hangge.com/blog/cache/detail_1135.html) [PO](https://viblo.asia/p/tim-hieu-ve-visual-effect-trong-ios-blur-vibrancy-effect-roaerwEbkRM)]
 - **UIAppearance** : "CSS" for iOS[[PO](https://nshipster.com/uiappearance/)]
+- **CoreData** :  Revision on the basics [[PO](https://www.bobthedeveloper.io/blog/beginner-guide-to-core-data-in-swift)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
