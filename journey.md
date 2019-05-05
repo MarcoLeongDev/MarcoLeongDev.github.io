@@ -26,6 +26,7 @@
 - **CoreData** :  Revision on the basics [[PO](https://www.bobthedeveloper.io/blog/beginner-guide-to-core-data-in-swift)]
 - **Hashable and equalable** : [[PO](https://useyourloaf.com/blog/how-to-get-equatable-and-hashable-for-free/)]
 - **Hashable** : [[PO](https://useyourloaf.com/blog/swift-hashable)]
+- **Compare UIImage** : need to compare with Data or NSData [[SO](https://stackoverflow.com/questions/34752570/uiimage-is-equal-to)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
