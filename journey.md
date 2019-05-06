@@ -27,7 +27,8 @@
 - **Hashable and equalable** : [[PO](https://useyourloaf.com/blog/how-to-get-equatable-and-hashable-for-free/)]
 - **Hashable** : [[PO](https://useyourloaf.com/blog/swift-hashable)]
 - **Compare UIImage** : need to compare with Data or NSData [[SO](https://stackoverflow.com/questions/34752570/uiimage-is-equal-to)]
-- **Sorting in CoreData* : [[SO](https://stackoverflow.com/questions/42479412/sort-by-date-swift-3)]
+- **Sorting in CoreData** : [[SO](https://stackoverflow.com/questions/42479412/sort-by-date-swift-3)]
+- **NSCache for images** : [[SO](https://stackoverflow.com/questions/40873685/how-to-cache-images-using-urlsession-in-swift)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
