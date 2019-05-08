@@ -30,6 +30,7 @@
 - **Sorting in CoreData** : [[SO](https://stackoverflow.com/questions/42479412/sort-by-date-swift-3)]
 - **NSCache for images** : [[SO](https://stackoverflow.com/questions/40873685/how-to-cache-images-using-urlsession-in-swift)]
 - **In-app purchase** : Video gives a good introduction, the incompleted is completed by RW and SO solved sandbox user problem [[YT](https://www.youtube.com/watch?v=YHGIij_stpk) [RW](https://www.raywenderlich.com/5456-in-app-purchase-tutorial-getting-started) [SO](https://stackoverflow.com/questions/38266084/itunes-account-creation-not-allowed-when-trying-to-test-in-app-purchases)]
+- **Local price** : [[SO](https://stackoverflow.com/questions/14453910/how-to-get-locale-currency-price-for-in-app-purchases-in-ios)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
