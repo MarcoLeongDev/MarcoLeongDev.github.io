@@ -32,6 +32,7 @@
 - **In-app purchase** : Video gives a good introduction, the incompleted is completed by RW and SO solved sandbox user problem [[YT](https://www.youtube.com/watch?v=YHGIij_stpk) [RW](https://www.raywenderlich.com/5456-in-app-purchase-tutorial-getting-started) [SO](https://stackoverflow.com/questions/38266084/itunes-account-creation-not-allowed-when-trying-to-test-in-app-purchases)]
 - **Local price** : [[SO](https://stackoverflow.com/questions/14453910/how-to-get-locale-currency-price-for-in-app-purchases-in-ios)]
 - **Jekyll bug fix** : [[GH](https://github.com/jekyll/jekyll/issues/5719#issuecomment-272048829)]
+- **Font Awesome** : [[HP](https://fontawesome.com/)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
