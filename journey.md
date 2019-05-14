@@ -33,6 +33,7 @@
 - **Local price** : [[SO](https://stackoverflow.com/questions/14453910/how-to-get-locale-currency-price-for-in-app-purchases-in-ios)]
 - **Jekyll bug fix** : [[GH](https://github.com/jekyll/jekyll/issues/5719#issuecomment-272048829)]
 - **Font Awesome** : [[HP](https://fontawesome.com/)]
+- **Free Privacy Policy** : [[HP](https://www.freeprivacypolicy.com/)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
