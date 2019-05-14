@@ -34,6 +34,7 @@
 - **Jekyll bug fix** : [[GH](https://github.com/jekyll/jekyll/issues/5719#issuecomment-272048829)]
 - **Font Awesome** : [[HP](https://fontawesome.com/)]
 - **Free Privacy Policy** : [[HP](https://www.freeprivacypolicy.com/)]
+- **Privacy policy generator : [[HP](https://app-privacy-policy-generator.firebaseapp.com/)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
