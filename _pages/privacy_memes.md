@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy - Memes
-permalink: /privacy_memes
+permalink: /privacy_memes/
 comments: false
 ---
 
