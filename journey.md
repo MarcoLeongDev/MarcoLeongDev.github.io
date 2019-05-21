@@ -35,7 +35,7 @@
 - **Font Awesome** : [[HP](https://fontawesome.com/)]
 - **Free Privacy Policy** : [[HP](https://www.freeprivacypolicy.com/)]
 - **Privacy policy generator** : [[HP](https://app-privacy-policy-generator.firebaseapp.com/)]
-- **Poster attribute in <video>** : To show an image before the video loads [[SO](https://stackoverflow.com/questions/9097605/how-to-make-a-loading-image-when-loading-html5-video)]
+- **Poster attribute in video** : To show an image before the video loads [[SO](https://stackoverflow.com/questions/9097605/how-to-make-a-loading-image-when-loading-html5-video)]
 - **Fastlane** : Screenshot upload failed `fastlane deliver download_metadata` to reset first [SO](https://stackoverflow.com/questions/45264576/fastlane-version-upload-were-temporarily-unable-to-save-your-changes-please)
 _ **Fastlane** : fastlane command not found [GH](https://github.com/fastlane/fastlane/issues/729)
 
