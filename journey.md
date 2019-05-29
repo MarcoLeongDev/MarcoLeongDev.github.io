@@ -43,6 +43,7 @@
 
 - **Handle Stream Response** : `Response` has a `Stream`, a `Stream` can be `.transform(utf8.decoder)`, which can be `listen` to [[SO](https://stackoverflow.com/questions/27808848/retrieving-the-response-body-from-an-httpclientresponse)]
 - **Handle added header** : `request.headers[HttpHeaders.<# header type #>]` [[SO](https://stackoverflow.com/questions/24183716/doing-an-http-post-with-headers-and-a-body)]
+- **User Agent String** : [[HP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
