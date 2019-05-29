@@ -39,11 +39,10 @@
 - **Fastlane** : Screenshot upload failed `fastlane deliver download_metadata` to reset first [[SO](https://stackoverflow.com/questions/45264576/fastlane-version-upload-were-temporarily-unable-to-save-your-changes-please)]
 - **Fastlane** : fastlane command not found [[GH](https://github.com/fastlane/fastlane/issues/729)]
 - **Scraping in Dart** : [[PO](https://creativebracket.com/write-your-first-web-scraper/)]
-
-
 - **Handle Stream Response** : `Response` has a `Stream`, a `Stream` can be `.transform(utf8.decoder)`, which can be `listen` to [[SO](https://stackoverflow.com/questions/27808848/retrieving-the-response-body-from-an-httpclientresponse)]
 - **Handle added header** : `request.headers[HttpHeaders.<# header type #>]` [[SO](https://stackoverflow.com/questions/24183716/doing-an-http-post-with-headers-and-a-body)]
 - **User Agent String** : [[HP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)]
+- **HTTP content-type** : Common example on SO and full list on HP. [[SO](https://stackoverflow.com/questions/23714383/what-are-all-the-possible-values-for-http-content-type-header) [HP](http://www.iana.org/assignments/media-types/media-types.xhtml)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
