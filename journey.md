@@ -43,6 +43,7 @@
 - **Handle added header** : `request.headers[HttpHeaders.<# header type #>]` [[SO](https://stackoverflow.com/questions/24183716/doing-an-http-post-with-headers-and-a-body)]
 - **User Agent String** : [[HP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent)]
 - **HTTP content-type** : Common example on SO and full list on HP. [[SO](https://stackoverflow.com/questions/23714383/what-are-all-the-possible-values-for-http-content-type-header) [HP](http://www.iana.org/assignments/media-types/media-types.xhtml)]
+- **Reddit Poll** : [[HP](http://redditpoll.com/)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
