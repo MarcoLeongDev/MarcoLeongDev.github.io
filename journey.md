@@ -45,6 +45,7 @@
 - **HTTP content-type** : Common example on SO and full list on HP. [[SO](https://stackoverflow.com/questions/23714383/what-are-all-the-possible-values-for-http-content-type-header) [HP](http://www.iana.org/assignments/media-types/media-types.xhtml)]
 - **Reddit Poll** : [[HP](http://redditpoll.com/)]
 - **Abstract Class and method in flutter** : abstract class cannot be instantiated [[YT](https://www.youtube.com/watch?v=cTp9cV-tB_E)]
+- **BLoC in Flutter** : [[YT](https://youtu.be/oxeYeMHVLII)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
