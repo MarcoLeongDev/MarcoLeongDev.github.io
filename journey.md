@@ -46,6 +46,7 @@
 - **Reddit Poll** : [[HP](http://redditpoll.com/)]
 - **Abstract Class and method in flutter** : abstract class cannot be instantiated [[YT](https://www.youtube.com/watch?v=cTp9cV-tB_E)]
 - **BLoC in Flutter** : [[YT](https://youtu.be/oxeYeMHVLII)]
+- **Flutter_bloc** : a package for more abstract BloC implementation [[YT](https://youtu.be/LeLrsnHeCZY)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
