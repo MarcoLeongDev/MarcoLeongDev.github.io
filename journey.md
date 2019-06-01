@@ -50,6 +50,7 @@
 
 ## June 2019
 - **JSON deserialize in Dart** : [[PO](https://www.woolha.com/tutorials/flutter-dart-convert-deserialize-json-string-to-object)]
+- **Iteratable to List in Dart** : [[SO](https://stackoverflow.com/questions/50090168/how-to-convert-an-iterable-of-type-x-to-type-y-re-iterablewordpair-to-iterabl)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
