@@ -48,5 +48,8 @@
 - **BLoC in Flutter** : [[YT](https://youtu.be/oxeYeMHVLII)]
 - **Flutter_bloc** : a package for more abstract BloC implementation [[YT](https://youtu.be/LeLrsnHeCZY)]
 
+## June 2019
+- **JSON deserialize in Dart** : [[PO](https://www.woolha.com/tutorials/flutter-dart-convert-deserialize-json-string-to-object)]
+
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
