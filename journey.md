@@ -51,6 +51,8 @@
 ## June 2019
 - **JSON deserialize in Dart** : [[PO](https://www.woolha.com/tutorials/flutter-dart-convert-deserialize-json-string-to-object)]
 - **Iteratable to List in Dart** : [[SO](https://stackoverflow.com/questions/50090168/how-to-convert-an-iterable-of-type-x-to-type-y-re-iterablewordpair-to-iterabl)]
+- **Node or node is dead** : reinstall node `sudo rm -rf /usr/local/lib/node_modules/npm` 
+`brew reinstall node` [[SO](https://stackoverflow.com/questions/44363066/error-cannot-find-module-lib-utils-unsupported-js-while-using-ionic)]
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
