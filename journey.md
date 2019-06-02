@@ -52,7 +52,7 @@
 - **JSON deserialize in Dart** : [[PO](https://www.woolha.com/tutorials/flutter-dart-convert-deserialize-json-string-to-object)]
 - **Iteratable to List in Dart** : [[SO](https://stackoverflow.com/questions/50090168/how-to-convert-an-iterable-of-type-x-to-type-y-re-iterablewordpair-to-iterabl)]
 - **Node or node is dead** : reinstall node `sudo rm -rf /usr/local/lib/node_modules/npm` 
-`brew reinstall node` [[SO](https://stackoverflow.com/questions/44363066/error-cannot-find-module-lib-utils-unsupported-js-while-using-ionic)]
+`brew reinstall npm` [[SO](https://stackoverflow.com/questions/44363066/error-cannot-find-module-lib-utils-unsupported-js-while-using-ionic)]
 - **Create a firebase project** : use `firebase init`, `firebase deploy` [[YT](https://www.youtube.com/watch?time_continue=534&v=DYfP-UIKxH0)]
 
 
