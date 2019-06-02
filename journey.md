@@ -55,6 +55,8 @@
 `brew reinstall npm` [[SO](https://stackoverflow.com/questions/44363066/error-cannot-find-module-lib-utils-unsupported-js-while-using-ionic)]
 - **Create a firebase project** : use `firebase init`, `firebase deploy` [[YT](https://www.youtube.com/watch?time_continue=534&v=DYfP-UIKxH0)]
 - **TS lint, build and run locally** : `npm run-script [lint | build]` `firebase serve --only functions` [[YT](https://www.youtube.com/watch?v=7IkUgCLr5oA)]
+- **Firebase invalid grant** : `cd ~/.config/gcloud` then `rm application_default_credentials.json` [[PO](https://github.com/firebase/firebase-functions/issues/121)]
+
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
