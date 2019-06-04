@@ -58,6 +58,7 @@
 - **Firebase invalid grant** : `cd ~/.config/gcloud` then `rm application_default_credentials.json` [[PO](https://github.com/firebase/firebase-functions/issues/121)]
 - **Firebase extra login** : `gcloud beta auth application-default login` [[SO](https://stackoverflow.com/questions/42043611/could-not-load-the-default-credentials-node-js-google-compute-engine-tutorial)]
 - **Dart Class-Json code gen** : `flutter pub run build_runner build` or [[HP](https://flutter.dev/docs/development/data-and-backend/json)]
+- **Dart load assets** : `rootBundle.loadString('assets/path/filename.json')` [[PO](https://cogitas.net/parse-json-dart-flutter/)]
 
 
 
