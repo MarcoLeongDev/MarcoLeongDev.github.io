@@ -60,6 +60,9 @@
 - **Dart Class-Json code gen** : `flutter pub run build_runner build` or [[HP](https://flutter.dev/docs/development/data-and-backend/json)]
 - **Dart load assets** : `rootBundle.loadString('assets/path/filename.json')` [[PO](https://cogitas.net/parse-json-dart-flutter/)]
 - **Flutter Assets not loading** : check indentation and use `File` instead of `rootBundle` [[PO](https://github.com/flutter/flutter/issues/11199)]
+- **Awesome iOS** : a collection of iOS frameworks [[GH](https://github.com/vsouza/awesome-ios)]
+- **Awesome Flutter** : a collection of Flutter/dart frameworks [[GH](https://github.com/Solido/awesome-flutter)]
+- **Awesome List** : a master collection of other awesome lists [[GH](https://github.com/topics/awesome)]
 
 
 
