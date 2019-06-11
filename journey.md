@@ -63,6 +63,7 @@
 - **Awesome iOS** : a collection of iOS frameworks [[GH](https://github.com/vsouza/awesome-ios)]
 - **Awesome Flutter** : a collection of Flutter/dart frameworks [[GH](https://github.com/Solido/awesome-flutter)]
 - **Awesome List** : a master collection of other awesome lists [[GH](https://github.com/topics/awesome)]
+- **Dart best practices** : [[HP](https://dart.dev/guides/language/effective-dart)]
 
 
 
