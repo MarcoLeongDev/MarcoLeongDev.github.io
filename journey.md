@@ -64,6 +64,7 @@
 - **Awesome Flutter** : a collection of Flutter/dart frameworks [[GH](https://github.com/Solido/awesome-flutter)]
 - **Awesome List** : a master collection of other awesome lists [[GH](https://github.com/topics/awesome)]
 - **Dart best practices** : [[HP](https://dart.dev/guides/language/effective-dart)]
+- **Donut chart in Flutter** : [[RP](https://pub.dev/packages/fl_chart#-readme-tab-)]
 
 
 
