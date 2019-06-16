@@ -67,6 +67,7 @@
 - **Donut chart in Flutter** : [[RP](https://pub.dev/packages/fl_chart#-readme-tab-)]
 - **Transformation in Flutter** : rotation and transformation [[HP](https://api.flutter.dev/flutter/widgets/Transform/Transform.rotate.html) [PO](https://medium.com/flutter-community/a-deep-dive-into-transform-widgets-in-flutter-4dc32cd575a9)]
 - **ScollView Flutter** : To use ScrollViewController [[SO](https://stackoverflow.com/questions/43485529/programmatically-scrolling-to-the-end-of-a-listview)]
+- **Get screen size** : uses `MediaQuery.of(context).size` [[SO](https://stackoverflow.com/questions/49553402/flutter-screen-size)]
 
 
 
