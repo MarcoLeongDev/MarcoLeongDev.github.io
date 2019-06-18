@@ -69,7 +69,8 @@
 - **ScollView Flutter** : To use ScrollViewController [[SO](https://stackoverflow.com/questions/43485529/programmatically-scrolling-to-the-end-of-a-listview)]
 - **Get screen size** : uses `MediaQuery.of(context).size` [[SO](https://stackoverflow.com/questions/49553402/flutter-screen-size)]
 - **Effects video footage** : for effects [[YT](https://www.youtube.com/playlist?list=PLVdLN4Yhy71e1POmSAhJUJLaw7uQSKVE-)]
-- **Natural Vidoe Footage** : nature [[YT](https://www.youtube.com/watch?v=6iRV8liah8A&list=PLoldj34__zj1w5q8oDymDqWtiRRIzq-dk)]
+- **Natural Video Footage** : nature [[YT](https://www.youtube.com/watch?v=6iRV8liah8A&list=PLoldj34__zj1w5q8oDymDqWtiRRIzq-dk)]
+- **Particles Video** : particles [[YT](https://www.youtube.com/watch?v=9d37LaV-3Lg&list=PLHt2rcqcMxTTSSFZSb0Uv2SU3Mdrc9RqD)]
 
 
 
