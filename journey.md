@@ -73,6 +73,8 @@
 - **Particles Video** : particles [[YT](https://www.youtube.com/watch?v=9d37LaV-3Lg&list=PLHt2rcqcMxTTSSFZSb0Uv2SU3Mdrc9RqD)]
 - **DL video from TB: [[BI](https://www.bilibili.com/video/av46267753/)]
 - **Local Notification in Flutter** : The main class is `FlutterLocalNotificationsPlugin` [[RP](https://pub.dev/packages/flutter_local_notifications#-readme-tab-)]
+- **RPi config / wifi** : `sudo raspi-config` [HP](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
+- **RPi ssh** : [HP](https://www.raspberrypistarterkits.com/how-to/enable-ssh-raspberry-pi/)
 
 
 
