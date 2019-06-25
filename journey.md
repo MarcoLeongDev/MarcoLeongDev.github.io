@@ -75,6 +75,9 @@
 - **Local Notification in Flutter** : The main class is `FlutterLocalNotificationsPlugin` [[RP](https://pub.dev/packages/flutter_local_notifications#-readme-tab-)]
 - **RPi config / wifi** : `sudo raspi-config` [HP](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
 - **RPi ssh** : [HP](https://www.raspberrypistarterkits.com/how-to/enable-ssh-raspberry-pi/)
+- **RPi Timemachine** : need to do `afp.conf` as well [PO](https://www.howtogeek.com/276468/how-to-use-a-raspberry-pi-as-a-networked-time-machine-drive-for-your-mac/)
+- **afp.conf** : [PO](https://archlinuxarm.org/forum/viewtopic.php?t=3329)
+
 
 
 
