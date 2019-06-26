@@ -78,6 +78,7 @@
 - **RPi Timemachine** : need to do `afp.conf` as well [PO](https://www.howtogeek.com/276468/how-to-use-a-raspberry-pi-as-a-networked-time-machine-drive-for-your-mac/)
 - **afp.conf** : [PO](https://archlinuxarm.org/forum/viewtopic.php?t=3329)
 - **RPi mount usb** : mount: `mount -a` mount points: `/etc/fstab` list all: `ls -l /dev/disk/by-uuid/` [PO](https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/)
+- **SMB on RPi** : [[PO](https://www.raspberrypi.org/magpi/raspberry-pi-samba-file-server/)]
 
 
 
