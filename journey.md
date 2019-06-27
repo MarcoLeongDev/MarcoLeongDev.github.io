@@ -80,6 +80,8 @@
 - **RPi mount usb** : mount: `mount -a` mount points: `/etc/fstab` list all: `ls -l /dev/disk/by-uuid/` [PO](https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/)
 - **SMB on RPi** : [[PO](https://raspberrypihq.com/how-to-share-a-folder-with-a-windows-computer-from-a-raspberry-pi/) [PO](https://www.raspberrypi.org/magpi/raspberry-pi-samba-file-server/)]
 - **Run and quit ssh** : [[SO](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session)]
+- **UTF8 Mount** : add `iocharset=utf8` to `/etc/fstab` [[PO](https://www.raspberrypi.org/forums/viewtopic.php?t=168694)]
+- **UTF8 locale* : change `OS Locale` to `en-GB.UTF8` [[SO](https://raspberrypi.stackexchange.com/questions/68884/python3-unicode#68887)]
 
 
 
