@@ -79,6 +79,7 @@
 - **afp.conf** : [PO](https://archlinuxarm.org/forum/viewtopic.php?t=3329)
 - **RPi mount usb** : mount: `mount -a` mount points: `/etc/fstab` list all: `ls -l /dev/disk/by-uuid/` [PO](https://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/)
 - **SMB on RPi** : [[PO](https://raspberrypihq.com/how-to-share-a-folder-with-a-windows-computer-from-a-raspberry-pi/) [PO](https://www.raspberrypi.org/magpi/raspberry-pi-samba-file-server/)]
+- **Run and quit ssh** : [[SO](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session)]
 
 
 
