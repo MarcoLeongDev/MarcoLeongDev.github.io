@@ -87,6 +87,7 @@
 - **Journaling disable fail** : Journaling cannot be disable with Time Machine is active [[PO](https://discussions.apple.com/thread/4573726)]
 - **Print disk RPi** : to list `lsblk`, to dig `blkid |grep [diskname]` [[PO](https://kerneltalks.com/howto/how-to-add-uuid-entry-in-etc-fstab-in-linux/)]
 - **List of Daemons** : cli `service --status-all` [[SO](https://unix.stackexchange.com/questions/175380/how-to-list-all-running-daemons)]
+- **Deluge** : daemon: `deluged` webui: `deluge-web --fork`  port : `8112` [[PO](https://www.addictivetips.com/ubuntu-linux-tips/use-deluge-webui-on-linux/)]
 
 
 
