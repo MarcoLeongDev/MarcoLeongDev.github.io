@@ -86,6 +86,7 @@
 - **Disable journal on HSF+** : `diskutil disableJournal /Volumes/TheVolumeName` [[PO](https://julio.meroh.net/2007/04/how-to-disable-journaling-on-hfs-volume.html)]
 - **Journaling disable fail** : Journaling cannot be disable with Time Machine is active [[PO](https://discussions.apple.com/thread/4573726)]
 - **Print disk RPi** : to list `lsblk`, to dig `blkid |grep [diskname]` [[PO](https://kerneltalks.com/howto/how-to-add-uuid-entry-in-etc-fstab-in-linux/)]
+- **List of Daemons** : cli `service --status-all` [[SO](https://unix.stackexchange.com/questions/175380/how-to-list-all-running-daemons)]
 
 
 
