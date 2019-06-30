@@ -84,6 +84,7 @@
 - **UTF8 locale** : change `OS Locale` to `en-GB.UTF8` [[SO](https://raspberrypi.stackexchange.com/questions/68884/python3-unicode#68887)]
 - **tmux** deattach: `ctrl+b` -> `d` attach: `tmux attach -t [sessio_number]`[[SO](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session) [SO](https://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session/8657#8657)]
 - **Disable journal on HSF+** : `diskutil disableJournal /Volumes/TheVolumeName` [[PO](https://julio.meroh.net/2007/04/how-to-disable-journaling-on-hfs-volume.html)]
+- **Journaling disable fail** : Journaling cannot be disable with Time Machine is active [[PO](https://discussions.apple.com/thread/4573726)]
 
 
 
