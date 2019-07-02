@@ -89,6 +89,7 @@
 - **List of Daemons** : cli `service --status-all` [[SO](https://unix.stackexchange.com/questions/175380/how-to-list-all-running-daemons)]
 - **Deluge** : daemon: `deluged` webui: `deluge-web --fork`  port : `8112` [[PO](https://www.addictivetips.com/ubuntu-linux-tips/use-deluge-webui-on-linux/)]
 - **Ext2** : this might actually work? [[PO](https://tektab.com/2015/11/14/mounting-an-external-disk-using-ext34-on-raspberry-pi/)]
+- **SMB with Kodi** : set it manually [[YT](https://www.youtube.com/watch?v=tHXIMnzs-kM)]
 
 
 
