@@ -92,6 +92,9 @@
 - **SMB with Kodi** : set it manually [[YT](https://www.youtube.com/watch?v=tHXIMnzs-kM)]
 - **remove background** : remove background, simple [[HP](https://www.remove.bg/)]
 
+## July 2019
+- **dd image creation** : `diskutil list` then `sudo dd if=/dev/disk[number] of=/path/to/image `[[PO](https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card)]
+
 
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
