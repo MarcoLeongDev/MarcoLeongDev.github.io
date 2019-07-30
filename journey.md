@@ -94,6 +94,32 @@
 
 ## July 2019
 - **dd image creation** : `diskutil list` then `sudo dd if=/dev/disk[number] of=/path/to/image `[[PO](https://thepihut.com/blogs/raspberry-pi-tutorials/17789160-backing-up-and-restoring-your-raspberry-pis-sd-card)]
+- **Archive mode and version matters** : the app will not be install if the app is archived for distribution, it will also not install if if the version of the device is lower than the distribution target [[YT](https://www.youtube.com/watch?v=ZWAUAerFB6s)]
+- **Python Env** : to install `install pyenv`; to install versions `pyenv install 2.7.14`; to ls version `pyenv versions` [[YT](https://www.youtube.com/watch?v=9UxSStjelNg&list=PLVBZzIFwBE3Q8Bhnl8gVpOD88VALGwScq)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
