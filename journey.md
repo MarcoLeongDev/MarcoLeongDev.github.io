@@ -98,7 +98,7 @@
 - **Python Env** : to install `install pyenv`; to install versions `pyenv install 2.7.14`; to ls version `pyenv versions` [[YT](https://www.youtube.com/watch?v=9UxSStjelNg&list=PLVBZzIFwBE3Q8Bhnl8gVpOD88VALGwScq)]
 
 ## Aug 2019
-- **Logging in AWS Lambda** : setup lambda with cloudwatch [PO](https://serverless-stack.com/chapters/api-gateway-and-lambda-logs.html)
+- **Logging in AWS Lambda** : setup lambda with cloudwatch [[PO](https://serverless-stack.com/chapters/api-gateway-and-lambda-logs.html)]
 
 
 
