@@ -102,6 +102,7 @@
 - **Configure starting zsh** : init setup of `zsh` for power user [[PO](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb) [PO](https://medium.com/@beatrizmrg/gaining-efficiency-with-iterm-prompt-customization-on-macos-3ad212f5bfde)]
 - **iTerm** power10k theme [[GH](https://github.com/romkatv/powerlevel10k#i-cannot-make-powerlevel10k-work-with-my-plugin-manager-help)]
 - **Power10k font** : fonts - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [Font Awesome](https://fontawesome.com/) [Powerline](https://github.com/powerline/fonts)
+- **bash to zsh** : add `export PATH=$HOME/bin:/usr/local/bin:$PATH` [[PO](https://github.com/robbyrussell/oh-my-zsh/issues/3507)]
 
 
 
