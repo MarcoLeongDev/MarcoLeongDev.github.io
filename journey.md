@@ -99,6 +99,7 @@
 
 ## Aug 2019
 - **Logging in AWS Lambda** : setup lambda with cloudwatch [[PO](https://serverless-stack.com/chapters/api-gateway-and-lambda-logs.html)]
+- **Configure starting zsh** : init setup of `zsh` for power user [[PO](https://medium.com/@beatrizmrg/gaining-efficiency-with-iterm-prompt-customization-on-macos-3ad212f5bfde)]
 
 
 
