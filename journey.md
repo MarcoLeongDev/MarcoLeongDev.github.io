@@ -108,6 +108,7 @@
     - **oh-my-zsh** : [link](https://github.com/robbyrussell/oh-my-zsh)
     - **zsh-autosuggestions** : [link](https://github.com/zsh-users/zsh-autosuggestions)
     - **powerleve10k** : [link](https://github.com/romkatv/powerlevel10k)
+    - **coloured ls* : [link](https://apple.stackexchange.com/questions/33677/how-can-i-configure-mac-terminal-to-have-color-ls-output)
 
 
 
