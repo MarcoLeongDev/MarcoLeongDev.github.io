@@ -103,6 +103,11 @@
 - **iTerm** power10k theme [[GH](https://github.com/romkatv/powerlevel10k#i-cannot-make-powerlevel10k-work-with-my-plugin-manager-help)]
 - **Power10k font** : fonts - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) [Font Awesome](https://fontawesome.com/) [Powerline](https://github.com/powerline/fonts)
 - **bash to zsh** : add `export PATH=$HOME/bin:/usr/local/bin:$PATH` [[PO](https://github.com/robbyrussell/oh-my-zsh/issues/3507)]
+- **zsh shifting order**
+	- **iTerm** : `brew cask install iterm2` [link](https://gist.github.com/kevin-smets/8568070)
+    - **oh-my-zsh** : [link](https://github.com/robbyrussell/oh-my-zsh)
+    - **zsh-autosuggestions** : [link](https://github.com/zsh-users/zsh-autosuggestions)
+    - **powerleve10k** : [link](https://github.com/romkatv/powerlevel10k)
 
 
 
