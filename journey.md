@@ -108,7 +108,7 @@
     - **oh-my-zsh** : [link](https://github.com/robbyrussell/oh-my-zsh)
     - **zsh-autosuggestions** : [link](https://github.com/zsh-users/zsh-autosuggestions)
     - **powerleve10k** : [link](https://github.com/romkatv/powerlevel10k)
-    - **coloured ls* : [link](https://apple.stackexchange.com/questions/33677/how-can-i-configure-mac-terminal-to-have-color-ls-output)
+    - **coloured ls** : [link](https://apple.stackexchange.com/questions/33677/how-can-i-configure-mac-terminal-to-have-color-ls-output)
 - **vscode user snippet** : `cmd+shift+p` -> `Configure user snippet` [[HP](https://code.visualstudio.com/docs/editor/userdefinedsnippets) [SO](https://stackoverflow.com/questions/2392766/multiline-strings-in-json)]
 - **ec2 arn**: `arn:aws:ec2:us-east-1:accountid:instance/` [[HP](https://aws.amazon.com/blogs/security/demystifying-ec2-resource-level-permissions/)]
 - **whoami for aws cli** `aws sts get-caller-identity`
