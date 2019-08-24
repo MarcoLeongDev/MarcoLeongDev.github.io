@@ -114,7 +114,7 @@
 - **whoami for aws cli** `aws sts get-caller-identity`
 - **Nginx default directory** : [[SO](https://stackoverflow.com/questions/10674867/nginx-default-public-www-location)]
 - **nginx cli** : status: `systemctl status nginx` start/stop/restart `service nginx [start/stop/restart]` [[PO](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04-quickstart) [PO](https://www.keycdn.com/support/nginx-commands)]
-
+- **7z on debian** : install : `sudo apt-get install p7zip-full`, run : `7z x PACKAGE.7z ` [[SO](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file#219395)]
 
 
 
