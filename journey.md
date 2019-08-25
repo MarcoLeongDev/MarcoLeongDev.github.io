@@ -117,6 +117,7 @@
 - **7z on debian** : install : `sudo apt-get install p7zip-full`, run : `7z x PACKAGE.7z ` [[SO](https://askubuntu.com/questions/219392/how-can-i-uncompress-a-7z-file#219395)]
 - **Add PPA Debian** : install `sudo apt-get install -y software-properties-common` [[PO](https://www.itzgeek.com/how-tos/mini-howtos/add-apt-repository-command-not-found-debian-ubuntu-quick-fix.html)] 
 - **RetroArch Debian** : [[PO](https://forums.libretro.com/t/libretro-ppa-for-ubuntu/1587)]
+- **OSMC + RetroPie** : [[YT](https://www.youtube.com/watch?v=enT0UihQ6OQ)]
 
 
 
