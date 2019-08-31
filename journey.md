@@ -119,6 +119,7 @@
 - **RetroArch Debian** : [[PO](https://forums.libretro.com/t/libretro-ppa-for-ubuntu/1587)]
 - **OSMC + RetroPie** : [[YT](https://www.youtube.com/watch?v=enT0UihQ6OQ)]
 - **PHP size limitation** : adjust settings in `php.ini` [[PO](https://www.sitepoint.com/upload-large-files-in-php/)]
+- **EmulationStation** : hotkey concept [[PO](https://retropie.org.uk/forum/post/185021)]
 
 
 
