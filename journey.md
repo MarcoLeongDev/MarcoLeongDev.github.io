@@ -121,6 +121,8 @@
 - **PHP size limitation** : adjust settings in `php.ini` [[PO](https://www.sitepoint.com/upload-large-files-in-php/)]
 - **EmulationStation** : hotkey concept [[PO](https://retropie.org.uk/forum/post/185021)]
 
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
+
 
 
 
