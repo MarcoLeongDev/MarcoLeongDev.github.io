@@ -123,14 +123,8 @@
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 
-
-
-
-
-
-
-
-
+## Nov 2019
+- **What's new in Swift 5** : Chained optionals, Result type, DynamicCallable [[YT](https://www.youtube.com/watch?v=_Iw4zf8gtqs&t=1309s)]
 
 
 
