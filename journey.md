@@ -130,7 +130,8 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - **SAML basic** : [[YT](https://www.youtube.com/watch?time_continue=217&v=gUmMcecHN9s&feature=emb_logo)]
 - **SAML basic** : [[YT](https://www.youtube.com/watch?v=S9BpeOmuEz4)]
 
-
+## Jan 2020
+- **RPi Image list** : [PO](https://www.tech-knowhow.com/2017/01/raspberry-pi-disk-images-definitive-list/)
 
 
 
