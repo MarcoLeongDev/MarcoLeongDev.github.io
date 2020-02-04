@@ -133,6 +133,11 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 ## Jan 2020
 - **RPi Image list** : [PO](https://www.tech-knowhow.com/2017/01/raspberry-pi-disk-images-definitive-list/)
 
+## Feb 2020
+- **HTTP Status Dogs** : funny http status [HP](https://httpstatusdogs.com/)
+- **HTTP Status Cats** : funny http status [HP](https://http.cat/)
+- **BADASS** : funny http status [HP](http://bada55.io/)
+
 
 
 
