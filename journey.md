@@ -137,6 +137,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - **HTTP Status Dogs** : funny http status [HP](https://httpstatusdogs.com/)
 - **HTTP Status Cats** : funny http status [HP](https://http.cat/)
 - **BADASS** : funny http status [HP](http://bada55.io/)
+- **dd progress** : uinsg `pv`, `dd if=/source/path | pv | dd of=/destination/path` [SO](https://askubuntu.com/questions/215505/how-do-you-monitor-the-progress-of-dd)
 
 
 
