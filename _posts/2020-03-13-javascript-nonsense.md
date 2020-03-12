@@ -1,5 +1,15 @@
 ---
 published: true
+layout: post
+author: marco
+categories:
+  - fun
+  - joke
+  - humour
+  - humor
+  - javascript
+  - js
+featured: true
 ---
 ## Javascript nonsense
 
