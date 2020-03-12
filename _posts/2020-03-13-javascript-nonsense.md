@@ -19,7 +19,7 @@ What's the results of:
 
 1. `[] + []`
 
->! "" // empty string
+>! "" // empty string !<
 
 2. `[] + {}`
 
