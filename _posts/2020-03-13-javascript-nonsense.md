@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Javascript nonsense
 
@@ -32,4 +32,3 @@ What's the results of:
 6. `Array(16).join("wat" - 1) + " Batman!"`
 
 >! `NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batmant!`
-
