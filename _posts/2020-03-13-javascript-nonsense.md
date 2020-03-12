@@ -34,9 +34,11 @@ What's the results of:
     0 // a number
 </details>
 
-- `{} + {}`
 
->! `NaN // Not-a-number` !<
+<details>
+    <summary>{} + {}</summary>
+    NaN // Not-a-number
+</details>
 
 - `Array(16).join("wat" + 1)`
 
