@@ -17,15 +17,19 @@ So, fire up you Firefox/Chrome console. Here's some guessing game from the video
 
 What's the results of:
 
-- `[] + []`
+## `[] + []`
 <details>
     <summary>answer</summary>
     `"" // empty string`
 </details>
 
-- `[] + {}`
+### `[] + {}`
+<details>
+    <summary>answer</summary>
+    [object Object] // an object
+</details>
 
->! `[object Object] // an object` !<
+>! `` !<
 
 - `{} + []`
 
