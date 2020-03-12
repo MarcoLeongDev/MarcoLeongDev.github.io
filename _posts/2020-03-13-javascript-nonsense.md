@@ -29,11 +29,10 @@ What's the results of:
     [object Object] // an object
 </details>
 
->! `` !<
-
-- `{} + []`
-
->! `0 // a number` !<
+<details>
+    <summary>{} + []</summary>
+    0 // a number
+</details>
 
 - `{} + {}`
 
