@@ -18,30 +18,37 @@ So, fire up you Firefox/Chrome console. Here's some guessing game from the video
 What's the results of:
 
 <details>
-    <summary>[] + []</summary>
-    `"" // empty string`
+    <summary>1. [] + []</summary>
+    <code>"" // empty string</code>
 </details>
 <br/>
 
 <details>
-    <summary>[] + {}</summary>
-    [object Object] // an object
+    <summary>2. [] + {}</summary>
+    <code>[object Object] // an object</code>
 </details>
 <br/>
 
 <details>
-    <summary>{} + []</summary>
-    0 // a number
+    <summary>3. {} + []</summary>
+    <code>0 // a number</code>
 </details>
 <br/>
 
 <details>
-    <summary>Array(16).join("wat" + 1)</summary>
-    wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1
+    <summary>4. {} + {}</summary>
+    <code>NaN</code>
 </details>
 <br/>
 
 <details>
-    <summary>Array(16).join("wat" - 1) + " Batman!"</summary>
-    NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batmant!
+    <summary>5. Array(16).join("wat" + 1)</summary>
+    <code>wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1</code>
 </details>
+<br/>
+
+<details>
+    <summary>6. Array(16).join("wat" - 1) + " Batman!"</summary>
+    <code>NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batmant!</code>
+</details>
+
