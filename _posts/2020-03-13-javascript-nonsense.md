@@ -12,5 +12,18 @@ What the result of:
 1. `[] + []`
 >! `"" // empty string`
 
+2. `[] + {}`
+>! `[object Object] // an object`
 
+3. `{} + []`
+>! `0 // a number`
+
+4. `{} + {}`
+>! `NaN // Not-a-number`
+
+5. `Array(16).join("wat" + 1)`
+>! `wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1`
+
+6. `Array(16).join("wat" - 1) + " Batman!"`
+>! `NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batmant!`
 
