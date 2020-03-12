@@ -17,26 +17,26 @@ So, fire up you Firefox/Chrome console. Here's some guessing game from the video
 
 What's the results of:
 
-1. `[] + []`
+- `[] + []`
 
 >! "" // empty string !<
 
-2. `[] + {}`
+- `[] + {}`
 
->! `[object Object] // an object`
+>! `[object Object] // an object` !<
 
-3. `{} + []`
+- `{} + []`
 
->! `0 // a number`
+>! `0 // a number` !<
 
-4. `{} + {}`
+- `{} + {}`
 
->! `NaN // Not-a-number`
+>! `NaN // Not-a-number` !<
 
-5. `Array(16).join("wat" + 1)`
+- `Array(16).join("wat" + 1)`
 
->! `wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1`
+>! `wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1` !<
 
-6. `Array(16).join("wat" - 1) + " Batman!"`
+- `Array(16).join("wat" - 1) + " Batman!"`
 
->! `NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batmant!`
+>! `NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batmant!` !<
