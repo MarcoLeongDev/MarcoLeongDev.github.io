@@ -139,7 +139,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - **BADASS** : funny http status [HP](http://bada55.io/)
 - **dd progress** : using `pv`, `dd if=/source/path | pv | dd of=/destination/path` [SO](https://askubuntu.com/questions/215505/how-do-you-monitor-the-progress-of-dd)
 
-
+## Jun 2020
+- **Vue raw tutorial**: [YT](https://www.youtube.com/watch?v=DsuTwV0jwaY)
+- **Vue features**: [YT](https://www.youtube.com/watch?v=p1iLqZnZPdo)
 
 
 
