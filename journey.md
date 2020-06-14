@@ -142,6 +142,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 ## Jun 2020
 - **Vue raw tutorial**: [YT](https://www.youtube.com/watch?v=DsuTwV0jwaY)
 - **Vue features**: [YT](https://www.youtube.com/watch?v=p1iLqZnZPdo)
+- **function programming**: [YT](https://www.youtube.com/watch?v=dAPL7MQGjyM)
 
 
 
