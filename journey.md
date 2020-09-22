@@ -144,7 +144,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - **Vue features**: [YT](https://www.youtube.com/watch?v=p1iLqZnZPdo)
 - **function programming**: [YT](https://www.youtube.com/watch?v=dAPL7MQGjyM)
 
-
+## Sept 2020
+-- **pyenv**: to switch pythong easily[PO](https://realpython.com/intro-to-pyenv/)
+-- **pyevn with zsh**: request the line `eval "$(pyenv init -)"` for it to work [PO](https://github.com/pyenv/pyenv/issues/896)
 
 
 
