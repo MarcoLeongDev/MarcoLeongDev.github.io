@@ -149,6 +149,11 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - **pyevn with zsh**: request the line `eval "$(pyenv init -)"` for it to work [[PO](https://github.com/pyenv/pyenv/issues/896)]
 - **aws-shell issue with python 3**: https://github.com/awslabs/aws-shell/issues/238 https://github.com/awslabs/aws-instance-scheduler/issues/68 https://medium.com/@andreasheissenberger/fix-aws-git-remote-codecommit-syntaxwarning-namespace-cli-binary-format-b8fe6a96fae
 
+## Dec 2020
+- **Swift Codeable Class**: class codeable requires num to map the keys [[PO](https://stackoverflow.com/questions/57496855/trying-to-make-a-class-codable-in-swift-but-it-is-not-the-correct-format)]
+- **Swift Codeable Struct**: struct codeable seems to be easier [[DOC](https://developer.apple.com/documentation/foundation/jsondecoder)]
+- **init? vs init**: optional init, something new [[PO](https://www.hackingwithswift.com/example-code/language/whats-the-difference-between-init-and-init)]
+
 
 
 
