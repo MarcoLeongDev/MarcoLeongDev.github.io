@@ -154,10 +154,9 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - **Swift Codeable Struct**: struct codeable seems to be easier [[DOC](https://developer.apple.com/documentation/foundation/jsondecoder)]
 - **init? vs init**: optional init, something new [[PO](https://www.hackingwithswift.com/example-code/language/whats-the-difference-between-init-and-init)]
 
-
-
-
-
+## May 2021
+- EC2 efs: [[PO](https://thenewstack.io/tutorial-configure-and-mount-an-efs-file-system-in-amazon-ec2-instance/)]
+- EFS: [[DOC](https://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html)]
 
 
 
