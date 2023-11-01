@@ -1,6 +1,9 @@
 
 ![journey]({{site.baseurl}}/assets/images/journey-4.jpg)
 
+## Nov 2023
+- **Wireguard** : [YT](https://youtube.com/watch?v=GZRTnP4lyuo)
+
 ## April 2019
 - **Github Page + Jykell now** : using Github page to host static Jykell content [[GH](https://github.com/barryclark/jekyll-now) [YT](https://www.youtube.com/watch?v=nN6QuNqmAwk) [YT](https://www.youtube.com/watch?v=iWowJBRMtpc)]
 - **Github Page + Jykell now + Prose.io** : using prose to edit markdown [[HP](https://prose.io)]
