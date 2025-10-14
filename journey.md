@@ -161,6 +161,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html
 - EC2 efs: [[PO](https://thenewstack.io/tutorial-configure-and-mount-an-efs-file-system-in-amazon-ec2-instance/)]
 - EFS: [[DOC](https://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html)]
 
-
+## April 2024
+- Crontab reboot in Debian/MacOS: need sudo, so using `sudo crontab -e` instead of user's. Command is `/sbin/reboot` instead of just `reboot`
 
 <!-- - <details><summary>App Auto landing page</summary> settled on auto landing <a href="https://github.com/emilbaehr/automatic-app-landing-page">[GH]</a></details> -->
